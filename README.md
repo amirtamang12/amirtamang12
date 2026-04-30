@@ -4,6 +4,24 @@ I build scalable web architectures, data-driven systems, and containerized deplo
 [LinkedIn](https://www.linkedin.com/in/amir-tamang-51b103188/) | [Portfolio Website](https://amirtamang12.github.io/Portfolio/)
 
 ---
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- 1. Streak Stats (Dark Theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirtamang12&theme=dark&hide_border=true" alt="Amir's GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- 2. Top Languages (Dark Theme & Compact Layout) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtamang12&layout=compact&theme=dark&hide_border=true" alt="Amir's Top Languages" />
+</p>
+
+<p align="center">
+  <!-- 3. Overall Stats (Light Theme with Icons) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amirtamang12&show_icons=true&hide_border=true&theme=default" alt="Amir's GitHub Stats" />
+</p>
 
 ### 🚀 Featured Projects
 
