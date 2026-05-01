@@ -11,12 +11,12 @@ I build scalable web architectures, data-driven systems, and containerized deplo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirtamang12&theme=dark&hide_border=true" alt="Amir's GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- 2. Top Languages (Dark Theme & Compact Layout) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtamang12&layout=compact&theme=dark&hide_border=true" alt="Amir's Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- 3. Overall Stats (Light Theme with Icons) -->
   <img src="https://github-readme-stats.vercel.app/api?username=amirtamang12&show_icons=true&hide_border=true&theme=default" alt="Amir's GitHub Stats" />
 </p>
