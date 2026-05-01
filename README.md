@@ -6,9 +6,7 @@ I build scalable web architectures, data-driven systems, and containerized deplo
 ---
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
+<p align="left">
   <!-- 1. Streak Stats (Dark Theme) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirtamang12&theme=dark&hide_border=true" alt="Amir's GitHub Streak" />
 </p>
@@ -23,7 +21,7 @@ I build scalable web architectures, data-driven systems, and containerized deplo
   <img src="https://github-readme-stats.vercel.app/api?username=amirtamang12&show_icons=true&hide_border=true&theme=default" alt="Amir's GitHub Stats" />
 </p>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 *   **[Containerized Web Architecture](https://github.com/amirtamang12/Software-Engineering-Final-year-Project)** — Full-stack PHP/MySQL e-commerce platform engineered with Docker Compose for isolated environment replication.
 *   **[YOLOv3 Object Detection](https://github.com/amirtamang12/Object-Detection-of-Input-Video)** — Computer vision script utilizing Python and OpenCV to detect, classify, and track objects in real-time video streams.
@@ -32,7 +30,7 @@ I build scalable web architectures, data-driven systems, and containerized deplo
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -46,7 +44,7 @@ I build scalable web architectures, data-driven systems, and containerized deplo
 
 ---
 
-### ⚡ Currently
+### Currently
 
 *   **Learning/Building:** Advanced object-oriented backend architecture, scalable cloud deployments, and refining machine learning workflows.
 *   **Open to collaborating on:** Data analytics visualization, RESTful API development, and full-stack integration projects.
