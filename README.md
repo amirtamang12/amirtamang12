@@ -9,9 +9,9 @@
 
 ![Amir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirtamang12&theme=dark&hide_border=true)
 
-![Amir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtamang12&layout=compact&theme=dark&hide_border=true)
+![Amir's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=amirtamang12&layout=compact&theme=dark&hide_border=true)
 
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirtamang12&show_icons=true&hide_border=true&theme=default)
+![Amir's GitHub Stats](https://github-readme-stats.shion.dev/api?username=amirtamang12&show_icons=true&hide_border=true&theme=default)
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=amirtamang12&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
