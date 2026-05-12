@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=false&vCenter=false&width=500&lines=Software+Engineer;Data+Analyst;Machine+Learning+Enthusiast)](https://git.io/typing-svg)Currently pursuing a Master's degree in Information Technology in Sydney, I build scalable web architectures, data-driven predictive models, and containerized deployments. My work bridges complex backend engineering with intuitive front-end design, alongside a strong focus on machine learning and data analytics.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=false&vCenter=false&width=500&lines=Software+Engineer;Data+Analyst;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+Currently pursuing a Master's degree in Information Technology in Sydney, I build scalable web architectures, data-driven predictive models, and containerized deployments. My work bridges complex backend engineering with intuitive front-end design, alongside a strong focus on machine learning and data analytics.
 
 [LinkedIn](https://www.linkedin.com/in/amir-tamang-51b103188/) | [Portfolio Website](https://amirtamang12.github.io/Portfolio/)
 
-![Visitor Count](https://profile-counter.glitch.me/amirtamang12/count.svg)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=amirtamang12&style=flat-square&color=blue)
 ---
 ### GitHub Stats
 
