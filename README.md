@@ -15,6 +15,15 @@ Currently pursuing a Master's degree in Information Technology in Sydney, I buil
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=amirtamang12&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### My Contribution Snake 🐍
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirtamang12/amirtamang12/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirtamang12/amirtamang12/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amirtamang12/amirtamang12/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 ---
 
 ### 🌟 Featured Projects
