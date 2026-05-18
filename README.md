@@ -24,7 +24,6 @@ Currently pursuing a Master's degree in Information Technology in Sydney, I buil
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amirtamang12/amirtamang12/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
----
 
 ### 🌟 Featured Projects
 
