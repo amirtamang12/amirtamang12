@@ -14,7 +14,7 @@ Currently pursuing a Master's degree in Information Technology in Sydney, I buil
 ![Amir's GitHub Stats](https://github-readme-stats.shion.dev/api?username=amirtamang12&show_icons=true&hide_border=true&theme=default)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=amirtamang12&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amirtamang12&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My Contribution Snake 🐍
 <p align="center">
