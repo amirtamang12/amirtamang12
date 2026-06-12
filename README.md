@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=false&vCenter=false&width=500&lines=Software+Engineer;Data+Analyst;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
-Currently pursuing a Master's degree in Information Technology in Sydney, I build scalable web architectures, data-driven predictive models, and containerized deployments. My work bridges complex backend engineering with intuitive front-end design, alongside a strong focus on machine learning and data analytics.
+
+Currently pursuing a Master's degree in Information Technology in Sydney, I build scalable web architectures, data-driven predictive models, and containerized deployments. My work bridges complex backend engineering with intuitive front-end design, alongside a strong focus on machine learning, computer vision, and data analytics.
 
 [LinkedIn](https://www.linkedin.com/in/amir-tamang-51b103188/) | [Portfolio Website](https://amirtamang12.github.io/Portfolio/)
 
@@ -27,14 +28,17 @@ Currently pursuing a Master's degree in Information Technology in Sydney, I buil
 
 ### 🌟 Featured Projects
 
-* **[Healthcare Predictive Analytics Models](https://github.com/amirtamang12/Healthcare-Predictive-Analytics-Models)** — An end-to-end machine learning pipeline utilizing Decision Trees and Logistic Regression to predict heart disease risk, complete with EDA and ethical AI evaluation.
+* **[Multimodal AI Resume Screener](https://github.com/amirtamang12/AI-Video-and-Text-Resume-Screener)** — An advanced AI-powered screening system capable of processing and analyzing both text-based documents and video inputs for automated candidate ranking.
+* **[Tech Asset Checkout System](https://github.com/amirtamang12/Tech-Asset-Checkout-System)** — A fully responsive, full-stack enterprise web application built with ASP.NET Core Razor Pages, Entity Framework, and Tailwind CSS, featuring role-based Identity authentication.
+* **[YOLOv5 Deep Learning Object Detection](https://github.com/amirtamang12/YOLOv5-Deep-Learning-Object-Detection)** — An end-to-end computer vision pipeline utilizing PyTorch, transfer learning, and custom dataset annotations to train and evaluate object detection models.
+* **[Healthcare Predictive Analytics Models](https://github.com/amirtamang12/Healthcare-Predictive-Analytics-Models)** — A machine learning pipeline utilizing Decision Trees and Logistic Regression to predict heart disease risk, complete with EDA and ethical AI evaluation.
 * **[Smart Collections Desktop App](https://github.com/amirtamang12/Smart-Collections-Desktop-App)** — A comprehensive media and notes management application engineered in Java with a custom JavaFX user interface and advanced object-oriented architecture.
 * **[Dockerized E-Commerce Platform](https://github.com/amirtamang12/Dockerized-ECommerce-Pets-Platform)** — Full-stack PHP/MySQL pet supply e-commerce platform engineered with Docker Compose for isolated, reproducible environment replication.
-* **[Interactive Web Games & Client Sites](https://github.com/amirtamang12/Bomb-Drop-Game)** — A collection of standalone web projects, including a custom 2D vanilla JavaScript game engine and responsive front-end client websites.
 
-### 📚 Coursework & Portfolios
-* **[Master's Projects Portfolio](https://github.com/amirtamang12/Masters-Projects-Portfolio)** — Advanced coursework covering Deep Learning (YOLOv5), PowerBI visualizations, RapidMiner data mining, and Network Security assessments.
-* **[Bachelor's Projects Portfolio](https://github.com/amirtamang12/Bachelors-Projects-Portfolio)** — Foundational coursework in full-stack web development, object detection (YOLOv3), and software engineering.
+### 📚 Architecture, Research & Portfolios
+* **[System Architecture & Business Reports](https://github.com/amirtamang12/academic-architecture-reports)** — A collection of technical writing, including strategic cloud migration planning, cyber security risk analysis, and software engineering architecture reports.
+* **[Master's Projects Portfolio](https://github.com/amirtamang12/Masters-Projects-Portfolio)** — Advanced coursework covering data mining, PowerBI visualizations, and deep learning.
+* **[Bachelor's Projects Portfolio](https://github.com/amirtamang12/Bachelors-Projects-Portfolio)** — Foundational coursework in full-stack web development and software engineering.
 
 ---
 
@@ -42,12 +46,14 @@ Currently pursuing a Master's degree in Information Technology in Sydney, I buil
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Data & Machine Learning**
+**Data, AI & Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
@@ -55,12 +61,12 @@ Currently pursuing a Master's degree in Information Technology in Sydney, I buil
 
 **Tools & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
 ### Currently
 
-* **Learning/Building:** Advanced predictive modeling, robust Java applications, and proactive cybersecurity vulnerability assessments.
-* **Open to collaborating on:** Machine learning pipelines, RESTful API development, and data visualization dashboards.
+* **Learning/Building:** Advanced computer vision pipelines, full-stack .NET architectures, and proactive cybersecurity vulnerability assessments.
+* **Open to collaborating on:** Multimodal AI systems, RESTful API development, and data visualization dashboards.
