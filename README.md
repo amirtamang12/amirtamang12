@@ -2,7 +2,7 @@
 
 Currently pursuing a Master's degree in Information Technology in Sydney, I build scalable web architectures, data-driven predictive models, and containerized deployments. My work bridges complex backend engineering with intuitive front-end design, alongside a strong focus on machine learning, computer vision, and data analytics.
 
-[LinkedIn](https://www.linkedin.com/in/amir-tamang-51b103188/) | [Portfolio Website](https://amirtamang12.github.io/Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/amiryonjantamang/) | [Portfolio Website](https://amirtamang12.github.io/Portfolio/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=amirtamang12&style=flat-square&color=blue)
 ---
